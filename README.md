@@ -1,10 +1,10 @@
-# MEXT_Portfolio_Audio_DSP
-Edwin´s portfolio for MEXT Preparation.
+#MEXT_Portfolio_Audio_DSP
+Edwin's portfolio for MEXT preparation.
 
-#Following portfolio was created for the preparation and documentation on the expected application for MEXT scolarship and Kyushu University admission.
+This portfolio was created to document the preparation process for the MEXT Scholarship application and admission to Kyushu University.
 
-On this portfolio we will follow lections, tasks and applied projects in order to obtain the necessary knowledge for the Researche Proposal.
+The repository will contain study notes, technical exercises, applied projects, and research activities focused on Audio DSP, Acoustics, and Media Technology.
 
-Research proposal will be for the Master in the Acoustic Design Course that is currently being taught in the Gradute School of Desing.
+The long-term objective is to develop the knowledge and portfolio required to support a research proposal for graduate studies at Kyushu University.
 
-More specifically, on the Information Science Desing.
+Current areas of interest include Acoustic Design, Audio Signal Processing, Spatial Audio, and Information Science Design.
